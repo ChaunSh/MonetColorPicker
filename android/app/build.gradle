@@ -1,0 +1,13 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.wallpapermonet.companion'
+    compileSdk 36
+    defaultConfig {
+        applicationId 'com.wallpapermonet.companion'
+        minSdk 30
+        targetSdk 36
+        versionCode 1
+        versionName '1.0'
+    }
+}

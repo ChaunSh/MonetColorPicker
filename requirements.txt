@@ -1,0 +1,2 @@
+Pillow>=10.4,<13
+materialyoucolor>=3.0.2,<4
